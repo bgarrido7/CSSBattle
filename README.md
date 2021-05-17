@@ -12,4 +12,4 @@ https://cssbattle.dev/
 
 Examples of images to replicate:
 
-<img src="https://github.com/bgarrido7/CSSBattle/blob/main/Screenshot%20from%202021-05-17%2015-26-12.png">
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/figures.png">
