@@ -10,6 +10,6 @@ https://cssbattle.dev/
 
  The score is calculated based on the number of characters you use (the comments included :P) and how close you replicate the image. Read the FAQS (https://cssbattle.dev/faqs) for more info. 
 
-Figures to replicate from **#1 - Pilot Battle**:
+### Figures to replicate from **#1 - Pilot Battle**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%231.png">
