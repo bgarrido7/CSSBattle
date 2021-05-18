@@ -14,10 +14,12 @@ https://cssbattle.dev/
 
 ### Figures to replicate 
 
-From **#1 - Pilot Battle**:
+From **Battle #1 - Pilot Battle**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%231.png">
 
-From **#2 - Visibility**:
+From **Battle #2 - Visibility**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%232.png">
+
+From **Battle #3 - Cursor**:
