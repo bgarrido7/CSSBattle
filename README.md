@@ -12,6 +12,8 @@ https://cssbattle.dev/
 
 ---
 
-Figures to replicate from **#1 - Pilot Battle**:
+### Figures to replicate 
+
+From **#1 - Pilot Battle**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%231.png">
