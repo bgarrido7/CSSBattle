@@ -1,5 +1,7 @@
-<div class="c1"></div>
-<div class="c2"></div>
+<div class="cL"></div>
+<div class="cR">
+  <div class="cM"></div>
+</div>
 
 <style>
   body{
@@ -13,16 +15,21 @@
     width: 150px;
     height: 150px;
     border-radius:50%;
-    mix-blend-mode: exclusion;
     }
-  .c2{
-    background: #E78481;
-    right:75px;
-  }
-  .c1{
-    right:inherit;
+  .cL{
     left:75px;
     background:#7B3F61;
+  }
+  
+  .cR{
+    background: #E78481;
+    right:75px;
+  	overflow:hidden;
+  }
+  
+  .cM{
+    background:#09042A;
+	right:100px;
   }
  
 </style>
