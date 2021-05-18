@@ -1,0 +1,35 @@
+<span class="upside"></span>
+<span class="upside-back"></span>
+<div class="back"></div>
+<div></div>
+
+<style>
+  body{
+    margin:0;
+    background: #F2F2B6;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  div, span {
+    position:absolute;
+    width: 0;
+    height: 0;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent;
+    border-bottom: 130px solid #FD4602;
+    right:80px;
+  }
+  .back{ 
+    right:60px;
+	border-bottom-color: #FF6D00;
+  }
+  span{
+    left:80px;
+    transform:rotate(180deg);
+  }
+  .upside-back{
+   	border-bottom-color: #FF6D00;
+    left:60px;
+  }
+</style>
