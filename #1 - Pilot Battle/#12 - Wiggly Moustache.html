@@ -1,0 +1,47 @@
+<div class="sideL"></div>
+<div class="sideR"></div>
+<div class="sideM"></div>
+<div class="ball1"></div>
+<div class="ball2"></div>
+
+<style>
+  body{
+    background:#F5D6B4;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  div {
+    border-radius:50%;
+    position:absolute;
+    border:solid #D86F45 20px;
+    width:60px;
+    height:60px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    transform: rotate(-45deg); 
+  }
+  .sideM{
+    transform: rotate(135deg); 
+  }
+   .sideL{
+    left:70px;
+  }
+  .sideR{
+    right:70px;
+  }
+  
+  .ball1,.ball2{
+    width:20px;
+    height:20px;
+    border:none;
+    background:#D86F45;
+	left:70px
+  }
+  .ball2{
+    left:inherit;
+    right:70px;
+  }
+  
+</style>
