@@ -25,3 +25,7 @@ From **Battle #2 - Visibility**:
 From **Battle #3 - Cursor**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figure%233.PNG">
+
+From **Battle #4 - Display**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%234.jpg">
