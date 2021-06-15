@@ -38,3 +38,7 @@ From **Battle #6 - Conic**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%236.png">
 
+From **Battle #7 - Backface**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%237.png">
+
