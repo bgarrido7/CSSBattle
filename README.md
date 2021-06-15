@@ -29,3 +29,12 @@ From **Battle #3 - Cursor**:
 From **Battle #4 - Display**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%234.jpg">
+
+From **Battle #5 - Inline**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%235.png">
+
+From **Battle #6 - Conic**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%236.png">
+
