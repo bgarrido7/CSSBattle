@@ -1,8 +1,8 @@
 <div></div>
-
+<span></span><span></span><span></span><span></span>
 <style>
   body{
-   background:#F3AC3C;
+    background:#F3AC3C;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -12,5 +12,25 @@
     height: 190px;
     background: #1A4341;
   }
- 
+  span{
+    position:absolute;
+    background:#F3AC3C;
+    border-radius:50%;
+    width:200px;
+    height:200px;
+    bottom:-50px;
+    right:0;
+  }
+  span:nth-child(2){
+    top:-50px;
+    left:0;
+  } 
+  span:nth-child(3){
+    bottom:-50px;
+    left:0;
+  }
+  span:nth-child(4){
+    top:-50px;
+    right:0;
+  } 
 </style>
