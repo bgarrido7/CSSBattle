@@ -1,17 +1,6 @@
-<div></div>
-<div class="light"></div>
-<div></div>
-<div class="light"></div>
-
-<div class="light"></div>
-<div></div>
-<div class="light"></div>
-<div></div>
-
-<div></div>
-<div class="light"></div>
-<div ></div>
-<div class="light"></div>
+<div></div><div></div><div></div><div></div>
+<span></span><span></span><span></span><span></span>
+<div></div><div></div><div></div><div></div>
 
 <style>
   body{
@@ -21,14 +10,14 @@
     flex-wrap: wrap;
     align-items:center;
   }
-  div {
+  div,span {
     width: 80px;
     height: 80px;
     border-radius: 100% 0 0 0;
     background:#F09462;
     margin:0 10px;
-  }
-.light{
+    }
+  div:nth-child(even), span:nth-child(odd){
     background:#F5D6B4;
   }
 </style>
