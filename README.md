@@ -42,3 +42,7 @@ From **Battle #7 - Backface**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%237.png">
 
+From **Battle #8 - Transition**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%238.png">
+
