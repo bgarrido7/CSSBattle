@@ -1,0 +1,33 @@
+<div></div><div></div>
+<div></div><div></div>
+<style>
+  body{
+    background:#1A4341;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  div {
+    position:absolute;
+    width:210px;
+    height:180px;
+    border: 30px solid #F3AC3C;
+    border-top:0;
+    top:0;
+  }
+  div:nth-child(n+2){
+    width:90px;
+    height:120px;
+    border-color:#998235;
+  }
+  div:nth-child(even){
+    height:0px;
+    width:210px;
+    top:240px;
+  }
+  div:nth-child(4){
+    width:510px;
+    border-color:#F3AC3C;
+    transform:rotate(90deg);
+  }
+</style>
