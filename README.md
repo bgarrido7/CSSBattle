@@ -50,3 +50,7 @@ From **Battle #9 - Margin**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%239.png">
 
+From **Battle #10 - Block**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2310.png">
+
