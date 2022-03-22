@@ -1,0 +1,36 @@
+<div></div><div></div><div></div><div></div>
+<style>
+  body {
+    display:flex;
+    flex-direction:center;
+    align-items:center;
+    background: #191919;
+  }
+  div {     
+    width: 180px;
+    height: 39px;
+    background: #A64942;
+    position:absolute;
+    border-radius:0 50px 50px 0;
+  }
+  div:nth-child(2n){
+    width: 223px;
+    background: #FE5F55;
+    transform:rotate(90deg);
+    top:0;
+    right:22%;
+  }
+    div:nth-child(1){
+    left:0;
+  }
+  div:nth-child(3){
+    transform:rotate(180deg);
+    right:0;
+    width:180px;
+  }
+  div:nth-child(4){
+    transform:rotate(-90deg);
+    top:inherit;
+    bottom:0;
+  }
+</style>
