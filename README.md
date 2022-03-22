@@ -54,3 +54,8 @@ From **Battle #10 - Block**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2310.png">
 
+From **Battle #15 - FILTER**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/15.png">
+
+
