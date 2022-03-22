@@ -1,0 +1,39 @@
+<a></a>
+<b></b><b></b><b></b><b></b>
+<c></c>
+<style>
+  body{
+    background:#243D83;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  a {
+    position:absolute;
+    width: 120px;
+    height: 120px;
+    background: #243D83;
+    transform:rotate(45deg);
+    z-index:1;
+  }
+  c{
+    position:absolute;
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    background: #EEB850;
+    z-index:2;
+  }
+  b{
+    background: #6592CF;
+    position:absolute;
+    border-radius:50%;
+    width: 100px;
+    height: 100px;
+    top:58px;
+    left:108px;
+  }
+  b:nth-child(2){ left:193px;}
+  b:nth-child(3){ top:143px; }
+  b:nth-child(4){ top:143px; left:193px; }
+</style>
