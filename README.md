@@ -54,8 +54,23 @@ From **Battle #10 - Block**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2310.png">
 
-From **Battle #15 - FILTER**:
+From **Battle #11 - Overflow**:
 
-<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/15.png">
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2311.png">
 
+From **Battle #12 - Blend**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2312.png">
+
+From **Battle #13 - Clip**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2313.png">
+
+From **Battle #14 - ZIndex**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2314.png">
+
+From **Battle #15 - Filter**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2315.png">
 
