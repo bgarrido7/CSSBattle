@@ -1,0 +1,52 @@
+<wings>
+  <wing1></wing1><wing2></wing2>
+</wings>
+<bee>
+  <stripes></stripes><stripes></stripes><stripes></stripes>
+</bee>
+<eye></eye>
+
+<style>
+  body{
+    background:#998235;
+    display: flex;
+    margin-top:75px;
+    align-items: center;
+    flex-direction:column;
+  }
+  wings{
+    display:flex;
+  }
+  wing1, wing2{
+    width: 75px;
+    height: 75px;
+    background: #FFFFFF;
+    border-radius:50% 50% 0
+  }
+  wing2{
+    border-radius:50% 50% 50% 0
+  }
+  bee {
+    width: 150px;
+    height: 75px;
+    background: #EFF33C;
+    border-radius:50px;
+    display:flex;
+    overflow:hidden;
+    gap:10px;
+  }
+  stripes{
+    height:100%;
+    width:25px;
+    background:#191919;
+  }
+  eye{
+    width: 15px;
+    height: 15px;
+    border-radius:50%;
+    background:#191919;
+    position:absolute;
+    right:145px;
+    bottom:115px;
+  }
+</style>
