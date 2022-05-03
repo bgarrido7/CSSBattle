@@ -74,6 +74,10 @@ From **Battle #15 - Filter**:
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2315.png">
 
+From **Battle #16 - Aspect**:
+
+<img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2318.png">
+
 From **Battle #17 - Christmas**
 
 <img src="https://github.com/bgarrido7/CSSBattle/blob/main/images/figures%2317.png">
